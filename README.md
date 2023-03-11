@@ -1,2 +1,3 @@
-# Odin-Projects
-First Odin Project
+# odin-recipes
+First Web page
+Hello Odin!
